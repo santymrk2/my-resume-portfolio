@@ -114,13 +114,29 @@
     "summary": "Description…"
   }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Junior",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
+    "name": "HTML",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "CSS",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "JavaScript",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "Typescript",
+    "level": "",
+    "keywords": []
+  },
+  {
+    "name": "DataBases",
+    "level": "",
+    "keywords": []
   },
   {
     "name": "React",
@@ -154,9 +170,10 @@
     "fluency": "Intermediate"
   }],
   "interests": [{
-    "name": "",
+    "name": "Music",
     "keywords": [
-      ""
+      "HiFi",
+      "Instruments"
     ]
   }],
   "references": [{
@@ -181,11 +198,11 @@
     "isActive": true,
     "startDate": "2020-01-01",
     "endDate": null,
-    "description": "Desining different elements and the identity of a church. For example, video graphics, lowerthirds, invitations, logos, etc ",
+    "description": "Desining different elements and the identity of a church. For example, video graphics, lowerthirds, invitations, flyers, logos, etc",
     "highlights": [
-      "React",
-      "Astro",
-      "Frontend"
+      "Illustrator",
+      "ProPresenter",
+      "Davinci Resolve"
     ],
     "url": "https://www.youtube.com/@icepilar"
   }]

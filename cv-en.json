@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Santiago Mercado Carbone",
-    "label": "Computer Engineer Student and Web Developer",
+    "label": "Computer Engineering Student and Web Developer",
     "image": "/me.webp",
     "email": "santymc@icloud.com",
     "phone": "+5461123004",
@@ -33,39 +33,67 @@
     ]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
+    "name": "School Photographer",
+    "position": "",
+    "url": "",
+    "startDate": "2023-06-25",
+    "endDate": "2023-08-20",
+    "summary": "This freelance work consisted of take photos to the students, designing and creating a small book.",
     "highlights": [
-      "Started the company"
+      "Administrate the proyect"
     ]
   }],
   "volunteer": [{
-    "organization": "Organization",
+    "organization": "Municipalidad Pilar",
     "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "url": "",
+    "startDate": "2023-03-02",
+    "endDate": "2023-12-16",
+    "summary": "",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      ""
     ]
   }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "Universidad del Salvador",
+      "url": "https://www.usal.edu.ar/",
+      "area": "Computer Engineering",
+      "studyType": "Degree",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "score": "8.3",
+      "courses": []
+    },
+    {
+      "institution": "Platzi",
+      "url": "https://platzi.com/p/santymrk2/",
+      "area": "Software Development",
+      "studyType": "",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "score": "4.0",
+      "courses": [
+        "Curso Profesional de Git y GitHub",
+        "Curso Práctico de Frontend Developer",
+        "Frontend Developer Course",
+        "Curso Básico de Programación",
+        "Curso de Asincronismo con JavaScript",
+        "Curso Práctico de JavaScript",
+        "Fundamentos de Ingeniería de Software"
+      ]
+    },
+    {
+      "institution": "Escuela Complejo Evangelico Pilar",
+      "url": "https://ecep.edu.ar/",
+      "area": "Economics and Administration",
+      "studyType": "High School",
+      "startDate": "2016-03-01",
+      "endDate": "2021-12-17",
+      "score": "",
+      "courses": []
+    }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -87,38 +115,78 @@
   }],
   "skills": [{
     "name": "Web Development",
-    "level": "Master",
+    "level": "Junior",
     "keywords": [
       "HTML",
       "CSS",
       "JavaScript"
     ]
-  }],
+  },
+  {
+    "name": "React",
+    "level": "Trainee",
+    "keywords": [
+      ""
+    ]
+  },
+  {
+    "name": "Git & Github",
+    "level": "Junior",
+    "keywords": [
+      ""
+    ]
+  },
+  {
+    "name": "Graphic Design",
+    "level": "Junior",
+    "keywords": [
+      "Adobe Suite",
+      "Figma",
+      "Davinci"
+    ]
+  }
+],
   "languages": [{
-    "language": "English",
+    "language": "Spanish",
     "fluency": "Native speaker"
+  },{
+    "language": "English",
+    "fluency": "Intermediate"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      ""
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+    "name": "",
+    "reference": ""
   }],
   "projects": [{
-    "name": "Project",
+    "name": "Areopago Site",
     "isActive": true,
     "startDate": "2019-01-01",
     "endDate": "2021-01-01",
-    "description": "Description...",
+    "description": "This page was created for a young people camp in a church. This was made with vite and now we're migrating to astro",
     "highlights": [
-      "Won award at AIHacks 2016",
-      "PlayStation"
+      "React",
+      "Astro",
+      "Frontend"
     ],
-    "url": "https://project.com/"
+    "url": "https://areopago.site/"
+  },
+  {
+    "name": "Church Design",
+    "isActive": true,
+    "startDate": "2020-01-01",
+    "endDate": null,
+    "description": "Desining different elements and the identity of a church. For example, video graphics, lowerthirds, invitations, logos, etc ",
+    "highlights": [
+      "React",
+      "Astro",
+      "Frontend"
+    ],
+    "url": "https://www.youtube.com/@icepilar"
   }]
 }

@@ -45,8 +45,8 @@
     ]
   },
     {
-    "name": "School Photographer",
-    "position": "",
+    "name": "ECEP",
+    "position": "School Photographer",
     "url": "",
     "startDate": "2023-06-25",
     "endDate": "2023-08-20",
@@ -193,29 +193,31 @@
     "reference": ""
   }],
   "projects": [{
-    "name": "Areopago Site",
+    "name": "Formula2 Game",
     "isActive": true,
     "startDate": "2019-01-01",
     "endDate": "2021-01-01",
-    "description": "This page was created for a young people camp in a church. This was made with vite and now we're migrating to astro",
+    "description": "The proyects was center in make a platform for a camp game. It is about a specific car for each squad and with different codes you will have to unlock all parts of the car.",
     "highlights": [
-      "React",
+      "Spline3D",
       "Astro",
-      "Frontend"
+      "Blender"
     ],
-    "url": "https://areopago.site/"
+    "url": "https://github.com/santymrk2/campa-a2"
   },
   {
     "name": "Church Design",
     "isActive": true,
     "startDate": "2020-01-01",
     "endDate": null,
-    "description": "Designing different elements and the identity of a church. For example, video graphics, lowerthirds, invitations, flyers, logos, etc",
+    "description": "Designing different elements and the identity of a church. For example, video graphics, lowerthirds, invitations, flyers, logos, etc. Also I've worked in the development of the redesign website.",
     "highlights": [
       "Illustrator",
       "ProPresenter",
-      "Davinci Resolve"
+      "Davinci Resolve",
+      "Astro",
+      "Typescript"
     ],
-    "url": "https://www.youtube.com/@icepilar"
+    "url": "https://icepilar.org/"
   }]
 }

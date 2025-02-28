@@ -32,7 +32,19 @@
       }
     ]
   },
-  "work": [{
+  "work": [
+    {
+    "name": "Besysoft",
+    "position": "System Analyst",
+    "url": "",
+    "startDate": "2024-10-15",
+    "endDate": "actually",
+    "summary": "This job consist in the develop of modules for banks and the support for the proyects",
+    "highlights": [
+      "Java", "Databases", "Oracle BPM", "Spring"
+    ]
+  },
+    {
     "name": "School Photographer",
     "position": "",
     "url": "",

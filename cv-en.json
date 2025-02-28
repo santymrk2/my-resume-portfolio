@@ -36,9 +36,9 @@
     {
     "name": "Besysoft",
     "position": "System Analyst",
-    "url": "",
+    "url": "https://www.besysoft.com/",
     "startDate": "2024-10-15",
-    "endDate": "actually",
+    "endDate": null,
     "summary": "This job consist in the develop of modules for banks and the support for the proyects",
     "highlights": [
       "Java", "Databases", "Oracle BPM", "Spring"
